@@ -114,12 +114,12 @@
 
     <!-- =========================   MENU   ========================== -->
     <nav class="menu">
-        <a href="../Index.php">Início</a>
-        <a href="Calculadora-Orcamento.php">Orçamento</a>
-        <a href="Troca-Pneus.php">Pneus</a>
-        <a href="Calculadora-Combustivel.php">Combustível</a>
-        <a href="Avaliador-Manutenção.php">Serviço</a>
-        <a href="Simulador-Viagem.php">Viagem</a>
+        <a href="../index.php">Início</a>
+        <a href="calculadora-orcamento.php">Orçamento</a>
+        <a href="troca-pneus.php">Pneus</a>
+        <a href="calculadora-combustivel.php">Combustível</a>
+        <a href="avaliador-manutencao.php">Serviço</a>
+        <a href="simulador-viagem.php">Viagem</a>
     </nav>
 
     <!-- =========================  FERRAMENTAS  ========================== -->
