@@ -107,7 +107,7 @@
         <a href="troca-pneus.php">Pneus</a>
         <a href="calculadora-combustivel.php">Combustível</a>
         <a href="avaliador-manutencao.php">Serviço</a>
-        <a href="simulador-iagem.php">Viagem</a>
+        <a href="simulador-viagem.php">Viagem</a>
     </nav>
 
     <!-- =========================  FERRAMENTAS  ========================== -->
