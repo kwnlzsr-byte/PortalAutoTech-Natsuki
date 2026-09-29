@@ -1,5 +1,5 @@
-DE php:8.2-apache
+FROM php:8.2-apache
 
-COPIAR . /var/www/html
+COPY . /var/www/html
 
-EXPOSTO 80
+EXPOSE 80
